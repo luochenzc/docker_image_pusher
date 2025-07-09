@@ -3,5 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ubuntu:22.04
+redis:8.0.0
 
